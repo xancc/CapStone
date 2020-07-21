@@ -1,0 +1,3 @@
+The dataset to be used for clustering and analysis will be extracted via https://en.wikipedia.org/wiki/List_of_London_boroughs.
+This dataset contains information on latitude and longitude co-ordinates, boroughs, their area population and a few other columns of information, but for this project I will only be focusing on the longitude and latitude co-ordinates. 
+The dataset will be preprocessed using data science tools and methods, and then analysed using the Foursquare platform to create new insights in relation to the case problem. 
